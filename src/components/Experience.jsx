@@ -16,6 +16,7 @@ const Experience = () => {
               Where it was achived
             </p>
             <p className="text-sm text-gray-600">
+              There is a lot of text to be written here just to fill up space.
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Voluptatibus porro, unde maxime atque in cum reiciendis voluptate
               repellendus reprehenderit facilis velit enim dolorum? Laudantium
