@@ -16,25 +16,26 @@ const Experience = () => {
               Where it was achived
             </p>
             <p className="text-sm text-gray-600">
-              There is a lot of text to be written here just to fill up space.
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Voluptatibus porro, unde maxime atque in cum reiciendis voluptate
-              repellendus reprehenderit facilis velit enim dolorum? Laudantium
-              vel maiores mollitia consequatur voluptatem numquam.
+              During my university studies, I worked on several frontend
+              projects, where I gained hands-on experience with React, Tailwind,
+              and JavaScript. For example, I developed a responsive portfolio
+              website and a small e-commerce prototype, focusing on UI design
+              and usability. These projects gave me a strong foundation in
+              building user-friendly, scalable interfaces.
             </p>
             <span className="absolute -left-[11px] top-10 h-5 w-5 rounded-full bg-purple-500"></span>
           </div>
 
           <div className="relative space-y-1 border-l-2 p-8 text-left">
-            <h3 className="text-xl font-semibold md:text-2xl ">Experience 1</h3>
+            <h3 className="text-xl font-semibold md:text-2xl ">Experience 2</h3>
             <p className="font-light text-lg text-gray-600">
               Where it was achived
             </p>
             <p className="text-sm text-gray-600">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Voluptatibus porro, unde maxime atque in cum reiciendis voluptate
-              repellendus reprehenderit facilis velit enim dolorum? Laudantium
-              vel maiores mollitia consequatur voluptatem numquam.
+              Developed and deployed personal and freelance websites using
+              React, Tailwind, and JavaScript. Focused on clean design,
+              responsive layouts, and interactive features such as multilingual
+              support and shopping carts.
             </p>
             <span className="absolute -left-[11px] top-10 h-5 w-5 rounded-full bg-purple-500"></span>
           </div>
