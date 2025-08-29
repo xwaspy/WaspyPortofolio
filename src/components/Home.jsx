@@ -1,5 +1,5 @@
 import React from "react";
-import Artwork from "../assets/artwork-BEUAy-aG.png";
+import Artwork from "../assets/artwork.png";
 import {
   BiLogoGit,
   BiLogoGithub,

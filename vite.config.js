@@ -7,4 +7,7 @@ export default defineConfig({
   plugins: [tailwindcss(), react()],
   // This tells Vite the base URL for your project on GitHub Pages
   base: "/",
+  build: {
+    emptyOutDir: true, // cleans dist before building
+  },
 });
